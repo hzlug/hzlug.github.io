@@ -6,7 +6,7 @@ permalink: /about/
 
 ![](https://ae01.alicdn.com/kf/HTB13KcracrrK1Rjy1ze760alFXa0.png)
 
-杭州Linux用户组（英语：Hangzhou Linux User Group，缩写为 HZLUG）。HZLUG的历史可以追溯到2008年，由[bones7456](https://luy.li/)和[Tualatrix](https://imtx.me/)两位大哥发起，后因一些原因被搁置了。俺希望在2018年可以聚集起同好重启HZLUG。
+杭州Linux用户组（英语：Hangzhou Linux User Group，缩写为 HZLUG）。HZLUG的历史可以追溯到2008年，由[bones7456](https://luy.li/)、[Tualatrix](https://imtx.me/)、[海洋之心@悟空](https://github.com/shaohaiyang)[等](https://groups.google.com/forum/#!members/hzlug)大哥发起，后因一些原因被搁置了。2018年10月在杭州同好的帮助下HZLUG重启。
 
 我们希望所有的话题能围绕着Linux、Open Source，当然也可以是关于Linux的招聘等相关信息。如果与Linux无关的，但是也是非常有意思的业界、技术相关的话题，也是非常欢迎在里面讨论。
 
