@@ -1,5 +1,5 @@
 ---
-title: 2011/04/10 HZLUG “GNOME 3 Launch Party”全纪录
+title: 2011/04/10 “GNOME 3 Launch Party” 全纪录
 key: 20110411
 tags: Notice
 ---
