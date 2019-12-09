@@ -1,5 +1,5 @@
 ---
-title: HZLUG 4月10日 GNOME 3 Launch Party开始接受报名
+title: 2011/04/10 GNOME 3 Launch Party开始接受报名
 key: 20110402
 tags: Notice
 ---

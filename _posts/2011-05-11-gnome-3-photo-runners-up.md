@@ -1,5 +1,5 @@
 ---
-title: GNOME 3 Launch Party的合照被评为“Runners Up“！
+title: 2011/05/11 GNOME 3 Launch Party的合照被评为“Runners Up“！
 key: 20110511
 tags: Notice
 ---
