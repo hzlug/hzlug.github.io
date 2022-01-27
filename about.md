@@ -18,7 +18,7 @@ HZLUG现在提供了电子邮件列表、微信群、Telegram供LUG成员进行�
 
 - Google Groups：[https://groups.google.com/group/hzlug](https://groups.google.com/group/hzlug)
 - Telegram：[https://t.me/hzlug](https://t.me/hzlug)
-- 微信：578657536（备注：HZLUG）
+- 微信： strrlthedev（备注：HZLUG）
 
 ## 相关历程
 
@@ -39,6 +39,8 @@ HZLUG正式宣布成立是在2010年11月15日，然而其历程可追溯至2008
 2011年4月11日，HZLUG在杭州阿里云组织了GNOME 3 Launch Party，合照被GNOME评为“Runners Up“！
 
 2018年10月，zionfuo在LinuxStory的帮助下对外宣布HZLUG重启。
+
+2021年10月, zionfuo 由于工作原因暂时离开 HZLUG, STRRL 组织接下来的活动.
 
 ## Hacking Saturday
 
