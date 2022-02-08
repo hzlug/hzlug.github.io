@@ -40,7 +40,7 @@ HZLUG正式宣布成立是在2010年11月15日，然而其历程可追溯至2008
 
 2018年10月，zionfuo在LinuxStory的帮助下对外宣布HZLUG重启。
 
-2021年10月, zionfuo 由于工作原因暂时离开 HZLUG, STRRL 组织接下来的活动.
+2021年10月, zionfuo由于工作原因暂时离开HZLUG，STRRL组织接下来的活动.
 
 ## Hacking Saturday
 
@@ -89,7 +89,7 @@ HZLUG的月度讲座活动是以讲解中高难度为主的小组授课式聚会
 
 - E-mail：[hzlug{at}qq.com](mailto:hzlug@qq.com)
 - Weibo：[@HZLUG](https://weibo.com/hzlug)
-- Twitter：[@HZLUG](https://twitter.com/hangzhoulug)
+- Twitter：[@hangzhoulug](https://twitter.com/hangzhoulug)
 - GitHub：[HZLUG](https://github.com/hzlug)
 
 ## 友情链接
@@ -97,4 +97,3 @@ HZLUG的月度讲座活动是以讲解中高难度为主的小组授课式聚会
 - Linux中国：[https://linux.cn/](https://linux.cn/)
 - Linux Story：[https://linuxstory.org/](https://linuxstory.org/)
 - China LUG：[https://lug.org.cn/](https://lug.org.cn/)
-- 巴比特加速器（场地赞助）：[https://boost.8btc.com/](https://boost.8btc.com/)
