@@ -8,7 +8,7 @@
 
 - Google Groups：[https://groups.google.com/group/hzlug](https://groups.google.com/group/hzlug)
 - Telegram：[https://t.me/hzlug](https://t.me/hzlug)
-- 微信：578657536（备注：HZLUG）
+- 微信：strrlthedev（备注：HZLUG）
 
 ## 联系方式
 
