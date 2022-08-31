@@ -4,7 +4,7 @@ title: 关于
 permalink: /about/
 ---
 
-![](https://ae01.alicdn.com/kf/HTB13KcracrrK1Rjy1ze760alFXa0.png)
+![](https://user-images.githubusercontent.com/16535685/187625519-f9f855e2-e0f0-40d6-8d5a-e9e0385becc7.png)
 
 杭州Linux用户组（英语：Hangzhou Linux User Group，缩写为 HZLUG）。HZLUG的历史可以追溯到2008年，正式成立于2010年11月15日的民间技术交流组织，是中国长三角地区继“[SHLUG](http://www.shlug.org/)”之后又一个Linux用户组。
 
