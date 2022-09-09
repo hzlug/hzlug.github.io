@@ -38,6 +38,8 @@ HZLUG正式宣布成立是在2010年11月15日，然而其历程可追溯至2008
 
 2011年4月11日，HZLUG在杭州阿里云组织了GNOME 3 Launch Party，合照被GNOME评为“Runners Up“！
 
+2011年9月18日，HZLUG在浙江工业大学组织了2011软件自由日暨OpenSourceCamp杭州站活动
+
 2018年10月，zionfuo在LinuxStory的帮助下对外宣布HZLUG重启。
 
 2021年10月, zionfuo由于工作原因暂时离开HZLUG，STRRL组织接下来的活动.
