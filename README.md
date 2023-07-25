@@ -12,7 +12,5 @@
 
 ## 联系方式
 
-- E-mail：[hzlug{at}qq.com](mailto:hzlug@qq.com)
-- Weibo：[@HZLUG](https://weibo.com/hzlug)
-- Twitter：[@HZLUG](https://twitter.com/hangzhoulug)
+- Twitter：[@hangzhoulug](https://twitter.com/hangzhoulug)
 - GitHub：[HZLUG](https://github.com/hzlug)
